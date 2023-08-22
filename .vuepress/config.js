@@ -1,5 +1,4 @@
 module.exports = {
-  base:"/yblog/",
   "title": "y的博客",
   "description": "老子",
   "dest": "public",
@@ -98,5 +97,6 @@ module.exports = {
   },
   "markdown": {
     "lineNumbers": true
-  }
+  },
+  "base":"/yblog/public/"
 }
